@@ -1,0 +1,30 @@
+
+.check {
+    background-color: gainsboro;
+}
+.check p {
+    text-decoration: line-through;
+}
+
+.list-item  {
+    border: 1px solid black;
+    margin: 10px 0;
+    max-width: 300px;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.btn-check, .btn-delete {
+    font-weight: bold;
+    color: white;
+    padding: 5px 9px;
+}
+
+.btn-check {
+    background-color: green;
+    
+}
+
+.btn-delete{
+    background-color: red;
+}
